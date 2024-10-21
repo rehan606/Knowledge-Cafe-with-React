@@ -14,7 +14,7 @@ const Blogs = () => {
     },[])
 
     return (
-        <div>
+        <div className="md:w-2/3 border">
             <h2>{blogs.length}</h2>
         </div>
     );
