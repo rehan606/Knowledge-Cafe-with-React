@@ -31,3 +31,4 @@ Blogs.propTypes = {
 }
 
 export default Blogs;
+
