@@ -5,7 +5,7 @@
       "title": "The Dawn of Web Development",
       "author": "John Doe",
       "author_img": "https://i.ibb.co.com/X52Lk1c/boy1.png",
-      "posted_date": "2024-10-15",
+      "posted_date": "Sep 15, 24",
       "reading_time": 5,
       "hashtags": ["#webdevelopment", "#coding", "#frontend"]
     },
@@ -15,7 +15,7 @@
       "title": "Mastering JavaScript in 2024",
       "author": "Jane Smith",
       "author_img": "https://i.ibb.co.com/R9PF5nX/girl1.jpg",
-      "posted_date": "2024-10-12",
+      "posted_date": "june 12, 24",
       "reading_time": 8,
       "hashtags": ["#javascript", "#programming", "#tech"]
     },
@@ -25,7 +25,7 @@
       "title": "Designing Responsive Websites",
       "author": "Alice Johnson",
       "author_img": "https://i.ibb.co.com/y6RsZTx/girl2.jpg",
-      "posted_date": "2024-09-30",
+      "posted_date": "May 24, 23",
       "reading_time": 6,
       "hashtags": ["#responsive", "#css", "#webdesign"]
     },
@@ -35,7 +35,7 @@
       "title": "The Future of AI in Web Development",
       "author": "Mark Lee",
       "author_img": "https://i.ibb.co.com/yXsghDN/boy2.jpg",
-      "posted_date": "2024-10-05",
+      "posted_date": "Oct 05, 24",
       "reading_time": 7,
       "hashtags": ["#ai", "#webdev", "#innovation"]
     },
@@ -45,7 +45,7 @@
       "title": "CSS Grid vs Flexbox: A Detailed Comparison",
       "author": "Emily Davis",
       "author_img": "https://i.ibb.co.com/R9PF5nX/girl1.jpg",
-      "posted_date": "2024-10-01",
+      "posted_date": "Jan 10, 24",
       "reading_time": 4,
       "hashtags": ["#cssgrid", "#flexbox", "#webdesign"]
     }
