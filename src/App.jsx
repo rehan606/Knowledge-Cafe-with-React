@@ -14,14 +14,22 @@ function App() {
     useBookmarks(newBookmarks);
   }
 
+  const [readingTime, setReadingTime] = useState(0)
+
+  const handleMarkAsRead = time => {
+    const newReadingTime = readingTime + time;
+    setReadingTime(newReadingTime)
+  }
+
+
   return (
     <>
       <Header></Header>
 
       <div >
         <div className='container w-11/12 mx-auto md:flex gap-4 mt-6'>
-          <Blogs handleAddToBookmark={handleAddToBookmark} ></Blogs>
-          <Bookmarks bookmarks={bookmarks}></Bookmarks>
+          <Blogs handleAddToBookmark={handleAddToBookmark} handleMarkAsRead={handleMarkAsRead}></Blogs>
+          <Bookmarks bookmarks={bookmarks} readingTime={readingTime}></Bookmarks>
           
         </div>
       </div>
